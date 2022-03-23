@@ -28,4 +28,21 @@ Table of Contests
            <li> Server: NodeJS </li>
  </ul>         
 
-## MongoDB & NodeJs Server
+##  Getting started. MongoDB & NodeJs Server
+MongoDB implementation
+<ol>
+          <li> Create new  cluster </li>
+           <li> implement a database and collection</li>
+           <li> Add connection string into your application code </li>
+          <img width="413" alt="Screen Shot 2022-03-23 at 5 47 09 PM" src="https://user-images.githubusercontent.com/83897840/159659306-14f93e77-7931-4256-accc-08d127394179.png">
+
+ </ol> 
+
+
+
+
+## Java Swing GUI development 
+<img width="900" alt="Screen Shot 2022-03-23 at 5 42 30 PM" src="https://user-images.githubusercontent.com/83897840/159658444-84b1eb8c-7e80-4a39-beda-5e5bec421ed1.png">
+<img width="925" alt="Screen Shot 2022-03-23 at 5 42 44 PM" src="https://user-images.githubusercontent.com/83897840/159658494-fc05c26a-e19c-4472-9fdb-79ff72b393e4.png">
+<img width="936" alt="Screen Shot 2022-03-23 at 5 43 00 PM" src="https://user-images.githubusercontent.com/83897840/159658555-5197da97-2cd6-4d4b-9d28-6d9d7a0ad21f.png">
+
